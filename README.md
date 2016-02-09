@@ -4,4 +4,4 @@ This is my portfolio page , where I have shared information about my projects an
 
 So go on check out
 
-`gill-gemini.github.io`
+* gill-gemini.github.io
